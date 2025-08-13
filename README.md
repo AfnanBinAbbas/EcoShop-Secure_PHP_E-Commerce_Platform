@@ -71,7 +71,7 @@ If the project exposes endpoints, document them in **docs/API.md** (added placeh
 
 ## Maintainers
 
-- @AfnanBinAbbas
+- (https://github.com/AfnanBinAbbas)
 
 ## Contributing
 
@@ -79,16 +79,4 @@ PRs welcome. Follows [Standard Readme](https://github.com/RichardLitt/standard-r
 
 ## License
 
-Copyright [2025] [Afnan Bin Abbas]
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+[Refer to](https://github.com/AfnanBinAbbas/EcoShop-Secure_PHP_E-Commerce_Platform/blob/main/LICENSE) for LICENSE.

@@ -1,0 +1,24 @@
+{
+  "skipped_count": 7,
+  "skipped": [
+    "EcoShop/test_cookie_functionality.php",
+    "EcoShop/test_order.php",
+    "EcoShop/test_setup.php",
+    "EcoShop/.vscode/settings.json",
+    "EcoShop/database/ecommerce_postgresql_schema.sql",
+    "EcoShop/logs/php_errors.log",
+    "EcoShop/logs/security.log"
+  ],
+  "copied_count": 29,
+  "risky_php": [
+    {
+      "file": "EcoShop/api/config.php",
+      "findings": [
+        {
+          "pattern": "System command execution",
+          "excerpt": "chema file not found: \" . $schemaFile);\n        }\n        \n        $sql = file_get_contents($schemaFile);\n        $pdo->exec($sql);\n        \n        return true;\n    } catch (Exception $e) {\n        error_log(\"Database initialization failed: \" ."
+        }
+      ]
+    }
+  ]
+}

@@ -371,7 +371,7 @@ To contribute to this project:
 
 ## License
 
-This project is open source and available under the MIT License.
+Refer to [LICENSE](https://github.com/AfnanBinAbbas/EcoShop-Secure_PHP_E-Commerce_Platform/blob/main/LICENSE)
 
 ## Support
 
@@ -382,7 +382,7 @@ For support and questions:
 
 ---
 
-**Author**: Manus AI  
-**Version**: 1.0.0  
+**Author**: Afnan Bin Abbas  
+**Version**: 1.4.0  
 **Last Updated**: August 6, 2025
 

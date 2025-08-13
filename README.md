@@ -4,7 +4,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 [![Security](https://img.shields.io/badge/security-hardened-blue.svg)](#security)
-[![License: UNLICENSED](https://img.shields.io/badge/license-unlicensed-lightgrey.svg)](#license)
+[![LICENSE](https://img.shields.io/badge/license-Apache--2.0-blue?logo=apache)](https://github.com/AfnanBinAbbas/EcoShop-Secure_PHP_E-Commerce_Platform/blob/main/LICENSE)
 
 A cleaned and documented version of **EcoShop**. This package removes common insecure files (dev/test artifacts, backups, env files, db dumps, logs) and adds hardening guidance.
 

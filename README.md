@@ -79,4 +79,4 @@ PRs welcome. Follows [Standard Readme](https://github.com/RichardLitt/standard-r
 
 ## License
 
-[Refer to](https://github.com/AfnanBinAbbas/EcoShop-Secure_PHP_E-Commerce_Platform/blob/main/LICENSE) for LICENSE.
+Refer to [LICENSE](https://github.com/AfnanBinAbbas/EcoShop-Secure_PHP_E-Commerce_Platform/blob/main/LICENSE) for LICENSE.

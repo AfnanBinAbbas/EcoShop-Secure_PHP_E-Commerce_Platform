@@ -71,7 +71,7 @@ If the project exposes endpoints, document them in **docs/API.md** (added placeh
 
 ## Maintainers
 
-- You (project owner). Update this section as needed.
+- @github.com/AfnanBinAbbas
 
 ## Contributing
 
